@@ -1,0 +1,177 @@
+*   {
+    background-color: #030711;
+   font-family: Courier New, Courier, monospace;
+}
+
+header {
+
+}
+
+body {
+    background-color: white;
+    position: relative;
+}
+
+footer {
+    padding: 30px 0px 100px 0px;
+    background-color: #111d3f;
+    border-color: #060c1c;
+    border-width: 50px 0px 0px;
+    border-style: solid;
+}
+
+h1 {
+    text-align: center;
+    padding: 140px 170px 200px 170px;
+    margin: 0px;
+    color: white;
+}
+
+h2 {
+    margin: 0;
+    color: white;
+    padding: 25px 100px 25px;
+    background-color: #060c1c;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    padding: 80px 100px;
+    border-style: solid;
+    border-width: 0px 0px 50px;
+    color: white;
+    background-color: #111d3f;
+    border-color: #060c1c;
+    margin: 0px 0px 0px 0px;
+}
+
+
+a {
+    color: black;
+}
+
+
+.nav-tabs, .nav-pills {
+    text-align:center;
+    background-color: #111d3f;
+}
+
+.nav-tabs > li, .nav-pills > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+     zoom:1; /* hasLayout ie7 trigger */
+}
+
+.tab-pane {
+    text-align: center;
+    color: white;
+    background-color: #111d3f;
+}
+
+.nav>li>a {
+    background-color: #111d3f !important;
+    border-color: white;
+    color: white;
+}
+
+
+.tablisting {
+    padding: 50px 100px;
+    border-width: 0px 0px 50px;
+    border-style: solid;
+    background-color: #111d3f;
+    border-color: #060c1c;
+    margin: 0px; 
+}
+
+.navbar-inverse>li>a {
+    background-color: #091535 !important;
+    color: white;
+    padding: 20px 40px 20px 15px;
+}
+
+.col-xs-6 {
+    width: 30%;
+    float: right;
+}
+
+#space {
+    padding: 61px;
+}
+
+#navbar {
+    text-align:right;
+}
+
+#social-media {
+    padding: 50px 578px 50px 300px;
+    color: white;
+    background-color: #111d3f;
+    border-width: 0px 0px 50px;
+    border-color: #060c1c;
+    border-style: solid;
+    margin: 0px;
+}
+
+#facebook {
+    height: 100px;
+    width: 130px;
+    padding: 0px 0px 30px 0px;
+    background-color: #111d3f;
+}
+
+#twitter {
+    height: 100px;
+    width: 160px;
+    padding: 0px 30px 30px 30px;
+    background-color: #111d3f;
+}
+
+#gmail {
+    height: 100px;
+    width: 120px;
+    padding: 0px 0px 30px 20px;
+    background-color: #111d3f;
+}
+
+#education {
+    padding: 10px 134px 0px 172px;
+    text-align: justify;
+    background-color: #111d3f;
+}
+
+#education>li, #education>li>ul, #education>li>ul>li {
+    background-color: #111d3f;
+}
+
+#employment {
+    padding: 10px 134px 0px 172px;
+    text-align: justify;
+    background-color: #111d3f;
+}
+
+#employment>li, #employment>li>ul, #employment>li>ul>li, #employment>li>ul>li>ul, #employment>li>ul>li>ul>li {
+    background-color: #111d3f;
+}
+
+#skills {
+    padding: 10px 134px 0px 172px;
+    text-align: justify;
+    background-color: #111d3f;
+}
+
+#skills>li, #skills>li>ul, #skills>li>ul>li {
+    background-color: #111d3f;
+}
+
+#awards {
+    padding: 10px 134px 0px 172px;
+    text-align: justify;
+    background-color: #111d3f;
+}
+
+#awards>li {
+    background-color: #111d3f;
+}
